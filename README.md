@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prajwal Dcunha</h1>
+<h1 align="center">Hi 👋, I'm Prajwal D Cunha</h1>
 <h3 align="left">An Aspiring Software Developer.<br> Avid Reader.<br> Ever curious. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praj86&label=Profile%20views&color=0e75b6&style=flat" alt="praj86" /> </p>
 
