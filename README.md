@@ -16,6 +16,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praj86&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="praj86" /></p
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praj86&show_icons=true&theme=tokyonight&locale=en" alt="praj86" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praj86&theme=dark" alt="praj86" /></p>
