@@ -4,13 +4,7 @@
 
 - 🌱 I’m currently learning **MERN Stack,Postgresql,Restful-api**
 
-- 💬 Ask me about **Fantasy books and novels**
-
-- 📝 I regularly write articles on [prajwaldcunha.substack.com/](prajwaldcunha.substack.com/)
-
 - 📫 How to reach me **prajwal.connect@gmail.com**
-
-- ⚡ Fun fact **I'm always up for a good converstation. Sarcasm is fun 🗿.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
